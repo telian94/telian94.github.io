@@ -1,5 +1,6 @@
-
-body#background{
-	background: url("images/football_stadium.jpg");
-	background-size: cover;
+html,body {
+background: url("http://i2.wp.com/www.wallpaperfool.com/wp-content/uploads/Sports-0005/Soccer%20Stadium%20Black%20And%20White-800x600.jpg")fixed; 
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
 }
