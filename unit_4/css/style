@@ -1,5 +1,7 @@
-background-image:url(https://i.pinimg.com/736x/a6/67/11/a66711ff9e883223aaefb12832e572a9--camp-nou-camps.jpg);
-background-repeat:no-repeat;
-background-size:cover;
+body{
+background-image: url("https://i.pinimg.com/736x/a6/67/11/a66711ff9e883223aaefb12832e572a9--camp-nou-camps.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
 
     
