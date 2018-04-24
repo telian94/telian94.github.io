@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi')
+
 h1{
 	color: yellow;
-	@import url('https://fonts.googleapis.com/css?family=Gugi');
-
+	font-family: 'Gugi', cursive;
+	)
 }
