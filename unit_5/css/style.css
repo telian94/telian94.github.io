@@ -4,10 +4,14 @@
 body{
 	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
-	background-color: black;
 	text-align: center;
 	position: relative;
 }
+
+.wrapper{
+	background-color: #FFE2B8;
+}
+
 
 h1{
 	color: white;
@@ -17,19 +21,17 @@ h1{
 	position: relative;
 }
 
-nav {
-	margin:auto;
 
-}
 header{
-	background-color: black;
-	width: 100%
+	background-color: #FFED74;
+	width: 100%;
 
 }
 
 a{
 	color: inherit;
 	text-decoration: none;
+	margin-right: 3em;
 }
 
 img{
@@ -37,21 +39,21 @@ img{
 }
 
 
-.navlinks1{
+nav{
 	font-family: 'Raleway', sans-serif;
 	color: #D9D9D9;
 	letter-spacing: 2px;
 	font-size: 0.75em;
 	text-align: center;
 	text-transform: uppercase;
-
-	margin: 30px;
 	border:none;
-	padding: 5em;
+	background-color: #E8C66A;
+	color: inherit;
+	text-decoration: none;
 }
 
 
-.text1 {
+h2 {
 	font-family: 'Gugi';
 	text-align: center;
 	position: absolute;
@@ -63,7 +65,9 @@ img{
 	margin: 2em auto;
 }
 
+
 footer{
+	background-color: #FF957E;
 	text-align: center;
 	color: white;
 }
